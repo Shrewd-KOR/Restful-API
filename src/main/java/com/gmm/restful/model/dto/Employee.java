@@ -1,9 +1,7 @@
-package com.gmm.RestfulAPI.Model;
+package com.gmm.restful.model.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
-
-import java.util.Date;
 
 
 @Data

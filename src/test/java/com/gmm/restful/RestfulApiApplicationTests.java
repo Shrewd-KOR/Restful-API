@@ -1,4 +1,4 @@
-package com.gmm.RestfulAPI;
+package com.gmm.restful;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
